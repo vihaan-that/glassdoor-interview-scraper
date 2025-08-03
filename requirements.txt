@@ -1,0 +1,33 @@
+# Glassdoor Interview Scraper Dependencies
+# =======================================
+
+# Core web scraping
+botasaurus==4.0.36
+selenium==4.15.2
+webdriver-manager==4.0.1
+beautifulsoup4==4.12.2
+lxml==4.9.3
+
+# HTTP requests and utilities
+requests==2.31.0
+fake-useragent==1.4.0
+
+# AI and data processing
+google-generativeai==0.8.3
+
+# Data handling
+pandas==2.1.4
+numpy==1.24.4
+
+# Logging and configuration
+python-dotenv==1.0.0
+
+# Development and testing (optional)
+pytest==7.4.3
+pytest-cov==4.1.0
+black==23.12.1
+flake8==6.1.0
+
+# Documentation (optional)
+sphinx==7.2.6
+sphinx-rtd-theme==2.0.0
