@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "company_url": "https://www.glassdoor.co.in/Interview/darwinbox-interview-questions-SRCH_KE0,9.htm",
+    "scraping_date": "2025-08-03T11:12:19.123456",
+    "duration_seconds": 180.5,
+    "pages_processed": 10,
+    "total_interviews": 197
+  },
+  "interviews": [
+    {
+      "id": "page_1_interview_1",
+      "page_number": 1,
+      "position": "Software Developer",
+      "experience": "2-3 years",
+      "difficulty": "Medium",
+      "outcome": "Positive Experience",
+      "raw_text": "I applied through campus placement. The process took 3 weeks. I interviewed at Darwinbox (Hyderabad) in March 2023. The interview consisted of 3 rounds: 1) Online coding test with 3 DSA questions - one was related to linked list manipulation, another was about finding palindromes, and the third was a dynamic programming problem. 2) Technical interview where they asked about JavaScript closures, event loop, and how to optimize database queries. They also asked me to explain my previous project architecture. 3) HR round discussing salary expectations, notice period, and why I want to join Darwinbox.",
+      "text_length": 623,
+      "extracted_at": "2025-08-03T11:12:25.789012"
+    },
+    {
+      "id": "page_1_interview_2", 
+      "page_number": 1,
+      "position": "Frontend Developer",
+      "experience": "1-2 years",
+      "difficulty": "Easy",
+      "outcome": "Positive Experience",
+      "raw_text": "Applied online and got a call within a week. The interview process was smooth with 2 rounds. First round was technical where they asked about React hooks, state management, and CSS flexbox. They gave me a coding problem to implement a simple todo list component. Second round was with the team lead discussing my background, previous projects, and cultural fit. Overall positive experience.",
+      "text_length": 398,
+      "extracted_at": "2025-08-03T11:12:26.123456"
+    },
+    {
+      "id": "page_2_interview_3",
+      "page_number": 2, 
+      "position": "Backend Developer",
+      "experience": "3-4 years",
+      "difficulty": "Hard",
+      "outcome": "Negative Experience",
+      "raw_text": "The interview was quite challenging. Started with an online assessment having 4 coding questions including binary search implementation, finding the longest common subsequence, and a system design question about designing a notification service. Technical round focused heavily on database optimization, microservices architecture, and API design patterns. They asked about handling high traffic loads and caching strategies. Final round was behavioral focusing on leadership experience and conflict resolution.",
+      "text_length": 567,
+      "extracted_at": "2025-08-03T11:12:45.234567"
+    }
+  ],
+  "stats": {
+    "pages_processed": 10,
+    "interviews_found": 197,
+    "errors": 0,
+    "start_time": "2025-08-03T11:11:12.000000",
+    "end_time": "2025-08-03T11:12:19.123456"
+  }
+}

@@ -1,0 +1,232 @@
+🚀 DARWINBOX INTERVIEW QUESTIONS - PREMIUM AI EXTRACTION
+======================================================================
+🤖 Extracted using Gemini 2.0 Flash Exp (Premium Model)
+📊 Processed ALL 197 interview reviews in 8 large chunks
+📅 Generated: 2025-08-03 11:58:11
+💎 Premium quality extraction with advanced AI analysis
+
+💻 CODING & ALGORITHM QUESTIONS
+==============================
+ 1. 🔥 Scramble String (implementation)
+ 2. 🔥 Combination Sum with Size Constraint (implementation)
+ 3. 🔥 Walls and Gates (implementation)
+ 4. 🔥 Corona Virus Containment (implementation)
+ 5. 🔥 Sum of 10 Largest Prime Numbers from Subarrays (implementation)
+ 6. 🔥 Sudoku solver, and optimized technique (in O(n) time)
+ 7. 🔥 Towers of Hanoi
+ 8. 🔥 Array manipulation problems
+ 9. 🔥 Find misplaced employees in a height array
+10. 🔥 Create interleaved passwords from two strings
+11. 🔥 Write a program of quick sort
+12. 🔥 Subset sum type problem
+13. 🔥 DP on strings problem
+14. 🔥 Medium level matrix problem
+15. 🔥 Similar to Rotten Oranges LeetCode question
+16. 🔥 Similar to Occurrences of elements question
+17. 🔥 Longest Palindromic Substring problem
+18. 🔥 Questions related to linked list
+19. 🔥 Questions related to intervals
+20. 🔥 Coding questions related to graph and tree models
+21. 🔥 Data structures and algorithms and dynamic programming programs
+22. 🔥 Find the length of Longest Palindromic Substring
+23. 🔥 Subset sum equal to k
+24. 🔥 Find the subsets of sum k
+25. 🔥 Question related to strings and DP
+26. 🔥 Graphs Majority element variation
+27. 🔥 2d grid traversal type
+28. 🔥 Solve a subset sum problem (possibly disguised in a story-based problem statement)
+29. 🔥 Subset sum problem
+30. 🔥 Coin change problem on leetcode
+31. 🔥 Josephus Circle Problem
+32. 🔥 Reverse the linked list in a single pass
+33. 🔥 Explain the approach of problem solving in DSA questions
+34. 🔥 Explain the MapReduce working.
+35. 🔥 Explain the approach you used for solving the question in the online test.
+36. 🔥 Solve Travelling Salesman Problem
+37. 🔥 Question on binomial exponentiation
+38. 🔥 Solve a DP (Dynamic Programming) question.
+39. 🔥 Solve Josephus Problem using the formula.
+40. 🔥 Given two arrays, insert all elements into a third array in sorted manner such that all duplicates are removed.
+41. 🔥 Remove cycles from a directed and undirected graph.
+42. 🔥 How can you add two numbers without using plus operator?
+43. 🔥 Write all the 3 different codes for Josephus problem.
+44. 🔥 4 Divisors program
+45. 🔥 Index of last occurance program
+46. 🔥 Palindrome solve in minimum space
+47. 🔥 Explain N queens algorithm?
+48. 🔥 Program for reverse linked list?
+49. 🔥 Reverse linked list
+50. 🔥 How to tell if a number is even or odd without using if else conditions
+51. 🔥 Explain and write code for Josephus problem
+52. 🔥 Give me a clear Explanatin about circular Linked List.
+
+📊 Total: 52 questions
+
+🛠️ TECHNICAL QUESTIONS
+======================
+ 1. ⚡ Linux and Security: (questions about system and network security)
+ 2. ⚡ AWS S3: (questions about understanding of data storage in AWS S3)
+ 3. ⚡ JavaScript Loops: Write loops unique to JavaScript
+ 4. ⚡ Linked List Operations: Inserting a node without the head pointer
+ 5. ⚡ JSON Object Loop Detection: Methods for detecting loops in JSON objects
+ 6. ⚡ Describe 5 Material-UI (MUI) components
+ 7. ⚡ Explain Firebase, Firestore, and FCM.
+ 8. ⚡ Object-oriented programming (OOP) concepts
+ 9. ⚡ Database management systems (DBMS) concepts
+10. ⚡ Operating systems (OS) concepts
+11. ⚡ Explain design patterns you know.
+12. ⚡ Explain core computer science concepts.
+13. ⚡ Discussion about data structures like stacks, queues, linked list and time complexities for insertion, deletion and search etc
+14. ⚡ Questions on JS (JavaScript)
+15. ⚡ Questions on OOPS concepts
+16. ⚡ Questions on DBMS concepts
+17. ⚡ Questions related to core Java Collections
+18. ⚡ Selenium related questions
+19. ⚡ Tell me about permission for a file
+20. ⚡ Explain polymorphism with detailed explanation
+21. ⚡ What is an API and did you work with APIs?
+22. ⚡ Questions on AI and technology
+23. ⚡ Questions related to CSE (Computer Science Engineering) fundamentals.
+24. ⚡ Explain OOPS concepts.
+25. ⚡ Explain DBMS concepts.
+26. ⚡ Questions on projects.
+27. ⚡ JavaScript questions (promises).
+28. ⚡ Explain some algorithm on pen paper.
+29. ⚡ Explain Oops concept from java.
+
+📊 Total: 29 questions
+
+🗄️ SQL & DATABASE QUESTIONS
+===========================
+ 1. 💾 Basic SQL Queries
+ 2. 💾 Given two tables orders and userid tables in mysql how do you the count of people who are not ordered anything
+ 3. 💾 SQL questions (unspecified number/type)
+ 4. 💾 10 MCQs from SQL
+ 5. 💾 Write SQL codes in front of recruiter
+ 6. 💾 Write an SQL query to return top 10 highest paid employees
+ 7. 💾 SQL query about join
+ 8. 💾 Write SQL queries.
+ 9. 💾 SQL queries based on aggregation and joins.
+10. 💾 Write SQL query from SQL50 from Leetcode.
+11. 💾 Write a SQL query joining all the 3 tables.
+12. 💾 Sql nosql queries
+
+📊 Total: 12 questions
+
+🗣️ BEHAVIORAL QUESTIONS
+=======================
+ 1. 🎯 Why should we hire you?
+ 2. 🎯 How do you handle yourself in difficult situations?
+ 3. 🎯 What motivates you for sales?
+ 4. 🎯 Why Darwinbox over your current company?
+ 5. 🎯 Tell me about yourself
+ 6. 🎯 Where do you see yourself in 5 years
+ 7. 🎯 How would you respond to hypothetical scenarios (technical problem-solving to handling interpersonal conflicts within a team)?
+ 8. 🎯 Reflect on past experiences where you demonstrated skills like leadership, teamwork, and adaptability.
+ 9. 🎯 What are your weaknesses & how are you overcoming them?
+10. 🎯 Tell me about your future goals
+11. 🎯 Based on HR interview & the Job description, explain your understanding of how the day to day look like for the role you are applying
+12. 🎯 Are you someone who is very particular about designations?
+13. 🎯 Situation based questions
+14. 🎯 What are your strengths
+15. 🎯 What can you contribute to the company
+16. 🎯 Why you want this role as your resume says you want tech job
+17. 🎯 What do you like to do in your free time?
+18. 🎯 What is your favorite book?
+19. 🎯 Describe yourself
+20. 🎯 Describe your work experience
+21. 🎯 Why did you leave your past company?
+22. 🎯 Hypothetical questions based on your electives
+23. 🎯 Sales pitch for their product.
+24. 🎯 Tell me your current goals
+25. 🎯 Tell me about your most challenging deal
+
+📊 Total: 25 questions
+
+👔 HR & COMPANY QUESTIONS
+========================
+ 1. 🏢 What are your expectations
+ 2. 🏢 What do you know about Darwinbox?
+ 3. 🏢 What are your salary expectations?
+ 4. 🏢 Discussion on notice period
+ 5. 🏢 Discussion on salary
+ 6. 🏢 Discussion on location
+ 7. 🏢 Basic HR questions (like a normal HR round)
+ 8. 🏢 Why you choose this technology etc Hr
+
+📊 Total: 8 questions
+
+🏗️ SYSTEM DESIGN QUESTIONS
+==========================
+ 1. 🚀 Build Linkedin Notification engine
+
+📊 Total: 1 questions
+
+📋 PROJECT EXPERIENCE QUESTIONS
+==============================
+ 1. 🛠️ Walk me through your resume
+ 2. 🛠️ Explain the architecture of your project
+ 3. 🛠️ What challenges did you face in your project?
+ 4. 🛠️ How did you solve challenges faced in your project?
+ 5. 🛠️ Explain the tech stack of your project.
+ 6. 🛠️ Explain your GSoC Work
+ 7. 🛠️ What is your role in the academic projects you have done in college
+ 8. 🛠️ Questions related to projects
+ 9. 🛠️ Be good at your project explanation
+10. 🛠️ Explain your projects
+11. 🛠️ Tell me about yourself
+12. 🛠️ How does an HR tech company operates?
+13. 🛠️ What you know about HRMS platform.
+14. 🛠️ How would you sell the product to a potential client?
+15. 🛠️ Full details explanation on Projects what we have done
+16. 🛠️ Questions aligned to previous projects
+17. 🛠️ Project related questions
+18. 🛠️ Project discussion
+19. 🛠️ Questions were from... Projects and project related technologies
+20. 🛠️ Explain the Project Management Process in detail.
+21. 🛠️ Explain your projects.
+22. 🛠️ What’s your role in the projects and internship?
+23. 🛠️ What's my role in the projects and internship?
+24. 🛠️ Technology used in project?
+25. 🛠️ Project based questions
+26. 🛠️ Can you take us through previous tech projects you worked on and what your role was?
+27. 🛠️ Take me through your software solutions Implementation experience.
+
+📊 Total: 27 questions
+
+🎯 PREMIUM STUDY STRATEGY
+==============================
+📈 HIGH PRIORITY (Practice Daily):
+   • Data Structures & Algorithms
+   • JavaScript fundamentals & advanced concepts
+   • SQL queries & database design
+   • Previous project deep-dives
+
+📊 MEDIUM PRIORITY (Review Thoroughly):
+   • System design basics
+   • Behavioral question frameworks (STAR method)
+   • Company research & role alignment
+
+📝 LAST MINUTE PREP:
+   • HR questions & salary negotiation
+   • Technical terminology review
+   • Mock interview practice
+
+📊 PREMIUM EXTRACTION SUMMARY
+===================================
+🎯 Total Premium Questions: 154
+   🔥 CODING Questions: 52
+   ⚡ TECHNICAL Questions: 29
+   💾 SQL Questions: 12
+   🎯 BEHAVIORAL Questions: 25
+   🏢 HR Questions: 8
+   🚀 SYSTEM Questions: 1
+   🛠️ PROJECT Questions: 27
+
+🚀 Processed with 8 large chunks (5x more efficient)
+💎 Premium AI model with advanced reasoning
+🎯 Higher quality question extraction
+
+======================================================================
+🍀 PREMIUM PREPARATION COMPLETE - CRUSH YOUR INTERVIEW! 🍀
+======================================================================

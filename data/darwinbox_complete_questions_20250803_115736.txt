@@ -1,0 +1,223 @@
+🎯 DARWINBOX INTERVIEW QUESTIONS - COMPLETE EXTRACTION
+=================================================================
+🤖 Extracted using Gemini 1.5 Flash API
+📊 Processed ALL 197 interview reviews from 40 chunks
+📅 Generated: 2025-08-03 11:57:36
+
+💻 CODING & ALGORITHM QUESTIONS
+==============================
+ 1. Scramble String
+ 2. Combination Sum with Size Constraint
+ 3. Walls and Gates
+ 4. Corona Virus Containment
+ 5. Sum of 10 Largest Prime Numbers from Subarrays
+ 6. DSA question (pseudocode on paper)
+ 7. How to detect a cycle in a JSON document and remove it?
+ 8. a dp question
+ 9. Finding misplaced employees in a height array
+10. Creating interleaved passwords from two strings
+11. Towers of Hanoi
+12. array manipulation
+13. DFS variations
+14. Sudoku solver, and optimized technique(in O(n) time)
+15. subset sum type
+16. dp on strings
+17. medium level matrix problem
+18. Similar to Rotten Oranges leetcode question
+19. Similar to Occurences of elements question
+20. Longest Palindromic Substring
+21. Write a program of quick sort
+22. Data structures and algorithms problems (graph and tree models)
+23. Dynamic programming programs
+24. 2 DSA questions which i dont remember exactly but one was related to linked list and the other was related to intervals
+25. find the lenght of Longest Palindromic Substring
+26. dsa questions (from leetcode)
+27. Subset sum equal to k
+28. a direct subset sum problem from leetcode
+29. Find the subsets of sum k
+30. Majority element variation
+31. 2 questions from backtracking
+32. 1 question is simple 2d grid traversal type question
+33. Coin change problem on leetcode
+34. Josephus Circle Problem
+35. Reverse the linked list in a single pass
+36. Explain MapReduce working
+37. approach i used for solving the question in online test
+38. Build Linkedin Notification engine
+39. Travelling Salesman Problem
+40. one question on binomial exponentiation
+41. Josephus Problem
+42. Remove cycles from a directed and undirected graph
+43. Easy-Medium leetcode DSA questions on Dfs
+44. given two array insert all element into third array in sorted manner such that all duplicates are removed
+45. 3 DSA problem
+46. How can you add two numbers without using plus operator?
+47. Two questions are solvable and last question somehow difficult to solve.
+48. Write all the 3 different codes for Josephus problem
+49. leetcode medium level questions
+50. 2-3 coding questions
+51. Index of last occurance
+52. BFS based question
+53. Palindrome solve in minimum space
+54. Give me a clear explanation about circular Linked List
+55. Explain N queens algorithm?
+56. Program for reverse linked list?
+57. Reverse linked list
+58. How to tell if a number is even or odd without using if else conditions
+59. Explain and write code for Josephus problem
+
+Total: 59 questions
+
+🛠️ TECHNICAL QUESTIONS
+======================
+ 1. Various topics related to system and network security
+ 2. Understanding of data storage in AWS S3
+ 3. Writing loops unique to JavaScript
+ 4. Inserting a node without the head pointer
+ 5. Methods for detecting loops in JSON objects
+ 6. Basic SQL and Firebase Queries
+ 7. SQL Queries
+ 8. JavaScript Basics
+ 9. code outputs
+10. designing schema and writing queries on it
+11. given two tables orders and userid tables in mysql how do you the count of people who are not ordered anything
+12. a mysql query question
+13. Tell me about your experience in digital marketing
+14. discussion about data structures like stacks, queues, linked list and time complexities for insertion, deletion and search etc
+15. What is your role in the academic projects you have done in college
+16. What are your weaknesses & how are you overcoming them?
+17. Tell me about integrations
+18. dsa and dbms and some oops concepts
+19. 10 mcqs from Sql, computer science fundamentals
+20. 2 questions from backtracking
+21. 1 question is simple 2d grid traversal type
+22. Question related to strings and DP
+23. About core java Collections and selenium related
+24. 10 mcqs from Sql
+25. computer science fundamentals
+26. How does an HR tech company operate?
+27. some basic SQL queries
+28. Tell me about permission for a file
+29. SQL basic keys with examples
+30. some algorithms and data structures mainly on graphs
+31. What’s your experience with CRM software
+32. MySQL queries
+33. polymorphism with detailed explanation and oops concepts
+34. questions on AI and technology
+35. Explain the Project Management Process in detail.
+36. Sql query was asked about join
+37. SQL questions
+38. JavaScript questions
+39. Write an SQL query to return top 10 highest paid employees
+40. What is an API and did you work with APIs
+41. DBMS questions
+42. OOPS questions
+43. linked list questions
+44. stack questions
+45. questions related to the coding questions solved in the online test
+46. questions related to CSE fundamentals
+47. Oops dbms projects logical questions
+48. output prediction questions
+49. SQL queries based on aggregation and joins
+50. data structures
+51. frontend Part javascript
+52. Javascript question(promises)
+53. basic OOPS in java
+54. some backend related questions
+55. 1 apptitute question
+56. dsa questions on stacks, maps and recursions
+57. real time applications of data structures and OOPS
+58. Oops concept from java
+59. Sql queires
+60. Write a SQL query joining all the 3 tables
+61. Few questions on OOPs concepts
+62. questions on Django
+63. some question related to javascript and React JS
+64. Explain some algorithm on pen paper
+65. oops dbms sql nosql javascript etc
+66. nosql queries
+67. basic OOPs concepts
+68. moderate standard questions on LinkedLists
+69. moderate standard questions on Trees
+70. RCA Question
+71. Technology used in project?
+72. Can you take us through previous tech projects you worked on and what your role was?
+73. Take me through your software solutions Implementation experience
+
+Total: 73 questions
+
+🗣️ BEHAVIORAL QUESTIONS
+=======================
+ 1. Why should we hire you?
+ 2. tell me about yourself
+ 3. why darwinobox
+ 4. what motivates you for sales
+ 5. Walk me through on your resume
+ 6. Where do you see yourself in 5 years
+ 7. Describe an end to end recruitment process
+ 8. examples on situations of negotiation / influencing
+ 9. problem solving
+10. introduce yourself
+11. My interview was quite extensive and focused heavily on my previous internship experiences. The interviewer delved into the specifics of each role, asking me to describe the challenges I faced, the skills I developed, and the projects I contributed to. They then shifted to hypothetical scenarios, presenting me with situations I might encounter in this role and asking how I would respond. These ranged from technical problem-solving to handling interpersonal conflicts within a team. The interviewer also posed some situational questions, prompting me to reflect on past experiences where I demonstrated skills like leadership, teamwork, and adaptability.
+12. tell me about yourself and your future goals
+13. Are you someone who is very particular about designations?
+14. Why you want this role as your resume says you want tech job
+15. what can you contribute to the company
+16. What are your strengths
+17. What I like to do in my free time
+18. Which is my favorite book
+19. Describe your work experience
+20. Why did you leave your past company?
+21. Describe yourself
+22. many more personal questions
+23. Describe why we should hire you?
+24. Assessed structure and overall product roadmap worked in previous organisation
+25. introduction of myself and the projects ive done
+26. What’s my role in the projects and internship
+27. Tell me about your projects
+28. Tell me your current goals
+29. Tell me about your most challenging deal
+30. Tell me about your previous internship and your thoughts on day-to-day work life of a PM
+31. How would you prevent customer churn?
+
+Total: 31 questions
+
+👔 HR QUESTIONS
+==============
+ 1. Why Darwinbox over your current company?
+ 2. general personal backhground
+ 3. work from office
+ 4. travelling to client locations
+ 5. Basis HR interview & the Job description, explain your understanding of how the day to day look like for the role you are applying
+ 6. What are your expectations
+ 7. What you know about HRMS platform?
+ 8. How would you sell the product to a potential client?
+ 9. company related questions
+10. questions on my past interview experience
+11. discussion on notice period, salary, location etc
+12. basic question as like a normal HR
+13. why you choose this technology etc
+14. general questions
+15. How they can improve their LinkedIn posts
+16. Can you use the system?
+17. What’s our edge over competitor
+
+Total: 17 questions
+
+🏗️ SYSTEM DESIGN QUESTIONS
+==========================
+
+Total: 0 questions
+
+📊 SUMMARY
+===============
+Total Questions Extracted: 180
+CODING Questions: 59
+TECHNICAL Questions: 73
+BEHAVIORAL Questions: 31
+HR Questions: 17
+SYSTEM Questions: 0
+
+=================================================================
+🍀 GOOD LUCK WITH YOUR DARWINBOX INTERVIEW TOMORROW! 🍀
+=================================================================
